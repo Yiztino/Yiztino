@@ -2,7 +2,7 @@ html {
     font-family: "Josefin Sans", sans-serif;
     font-size: 16px;
     background-color: #b8fa98;
-    color: white;
+    color: #75AD58;
     scroll-behavior: smooth;
   }
   
@@ -34,8 +34,7 @@ html {
   }
   
   #top {
-    text-align: left;
-    background-color: #07648c;
+    text-align: center;
     border-radius: 0rem;
     padding: 2rem;
   }
