@@ -1,0 +1,60 @@
+html {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    background-color: #b8fa98;
+    color: white;
+    scroll-behavior: smooth;
+  }
+  
+  a {
+    color: #52ff14;
+  }
+  
+  a:hover {
+    color: #c9c614;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: #edf056;
+  }
+  
+  img,
+  iframe {
+    height: auto;
+    max-width: 100%;
+    aspect-ratio: 16 / 9;
+  }
+  
+  td,
+  table,
+  th,
+  tr {
+    border: 3px solid white;
+  }
+  
+  #top {
+    text-align: left;
+    background-color: #07648c;
+    border-radius: 0rem;
+    padding: 2rem;
+  }
+  
+  .text-align-center {
+    text-align: center;
+  }
+  
+  .bg-contrastWG {
+    background-color: #d90c0b;
+  }
+  
+  .text-purple {
+    color: #ff36d9;
+  }
+  .widthResponsive {
+    width: 100%;
+  }
+  
+  .text-subtitle{
+    color: #B1B7FA
+  }
