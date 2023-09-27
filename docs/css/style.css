@@ -6,6 +6,10 @@ html {
     scroll-behavior: smooth;
   }
   
+  p{
+
+    color: #75AD58
+  }
   a {
     color: #52ff14;
   }
@@ -57,3 +61,4 @@ html {
   .text-subtitle{
     color: #B1B7FA
   }
+  
